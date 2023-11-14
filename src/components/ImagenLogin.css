@@ -1,0 +1,6 @@
+.image-container{
+    width: 615px;
+    height: 982px;
+    flex-shrink: 0;
+    background: url('../assets/imagen2.jpg'), lightgray 50% / cover no-repeat;
+}

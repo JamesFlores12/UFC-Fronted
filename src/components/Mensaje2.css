@@ -1,0 +1,11 @@
+.message-container{
+    width: 360px;
+    height: 207px;
+    color: #E8E8E8;
+    font-family: Saira Condensed;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90%;
+    text-transform: uppercase;
+}
